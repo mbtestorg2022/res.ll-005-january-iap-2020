@@ -6,7 +6,7 @@ uid: a089af96-9073-c2c0-3554-6fa1d28d62d2
 
 Supplemental course notes on mathematics of Big Data and AI provided in January 2020:
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Artificial Intelligence and Machine Learning (PDF - 3.9MB)]({{< baseurl >}}/resources/mitres_ll_005iap20_supplemental_ses01)
+[Artificial Intelligence and Machine Learning (PDF - 3.9MB)]({{< baseurl >}}/resources/mitres_ll_005iap20_supplemental_ses01)
 
 [Cyber Network Data Processing (PDF - 1MB)]({{< baseurl >}}/resources/mitres_ll_005iap20_supplemental_ses02_part1); [AI Data Architecture (PDF - 1MB)]({{< baseurl >}}/resources/mitres_ll_005iap20_supplemental_ses02_part2)
 
